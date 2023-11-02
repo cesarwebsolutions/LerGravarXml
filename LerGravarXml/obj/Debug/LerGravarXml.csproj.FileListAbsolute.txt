@@ -1,0 +1,10 @@
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\bin\Debug\LerGravarXml.exe.config
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\bin\Debug\LerGravarXml.exe
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\bin\Debug\LerGravarXml.pdb
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.Form1.resources
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.Properties.Resources.resources
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.exe
+C:\Users\cesar\source\repos\LerGravarXml\LerGravarXml\obj\Debug\LerGravarXml.pdb
